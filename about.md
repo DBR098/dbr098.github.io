@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-Something about me.
+My name is Denny, I've graduated from Computer Science and I'm into cybersecurity.
+
+Through this blog you may find content related to cybersecurity: my learnings, news, videos, papers, articles... Whatever I think it may be useful to someone that wants to learn about this.
